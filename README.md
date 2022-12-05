@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EthanSilver
-- 👀 I’m interested in Digital Design and Java
-- 🌱 I’m currently learning Basic
-- 💞️ I’m looking to collaborate on web APIs
-- 📫 How to reach me ejrsilver@gmail.com
+- 👀 I’m interested in Digital Design, Java, and C
+- 🌱 I’m currently learning x86 asm. and embedded C
+- 💞️ I’m looking to collaborate on cool stuff
+- 📫 How to reach me: ejrsilver@gmail.com
 
 <!---
 EthanSilver/EthanSilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
