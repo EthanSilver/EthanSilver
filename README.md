@@ -1,4 +1,4 @@
-#Howdy,
+# Howdy,
 
 My name is Ethan Silver, and I'm a Computer Engineering student at Queen's University, and a Software Developer Intern at the Centre for Advanced Computing.
 
