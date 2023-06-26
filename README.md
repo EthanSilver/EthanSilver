@@ -1,6 +1,6 @@
 # Howdy,
 
-My name is Ethan Silver, and I'm a Computer Engineering student at Queen's University, and a Software Developer Intern at the Centre for Advanced Computing.
+My name is Dreamy Bull, and I'm a Computer Engineering student at Queen's University, and a Software Developer Intern at the Centre for Advanced Computing.
 
 I focus on the development of embedded and distributed systems, including processor design using FPGAs, as well as operating system and compiler design.
 
