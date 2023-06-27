@@ -1,6 +1,6 @@
 # Howdy,
 
-My name is Ethan Silver, and I'm a Computer Engineering student at Queen's University, and a Software Developer Intern at the Centre for Advanced Computing.
+My name is Ethan Silver, and I'm a Computer Engineering student at Queen's University, and a Software Developer at the Centre for Advanced Computing.
 
 I focus on the development of embedded and distributed systems, including processor design using FPGAs, as well as operating system and compiler design.
 
@@ -10,7 +10,7 @@ You can also check out my personal portfolio website, here: https://ejrsilver.co
 
 ## Skills
 ### Embedded/Low Level Design
- - C
+ - C/C++
  - x86 and NIOS asm.
  - Pascal
  - Syntax/Semantic Language
@@ -30,6 +30,7 @@ You can also check out my personal portfolio website, here: https://ejrsilver.co
 ### Other
  - Java
  - Java Swing
+ - Fortran
  - C++
  - Wxwidgets
  - Git
