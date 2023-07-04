@@ -53,4 +53,4 @@ You can also check out my personal portfolio website, here: https://ejrsilver.co
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ejrsilver&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ejrsilver&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ejrsilver&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ejrsilver&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ejrsilver&theme=dark&utcOffset=-4)
