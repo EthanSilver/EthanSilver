@@ -9,7 +9,10 @@ Check me out on LinkedIn:
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ejrsilver/)
 
 ## My Projects
-I made an Accessible map application for the Queen's University campus using Next.js, here: [https://dev.ejrsilver.com](https://dev.ejrsilver.com).
+
+Recently, I created a learning platform using NextJS for use by the Queen's Student Cluster Competition. See it in action here: [https://qscc.ejrsilver.com](https://qscc.ejrsilver.com).
+
+Last year, I made an Accessible map application for the Queen's University campus using Next.js, here: [https://dev.ejrsilver.com](https://dev.ejrsilver.com).
 
 I also technically have a personal website, but there's not much to see: [https://ejrsilver.com](https://ejrsilver.com)
 
